@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mayureshzende
 - 👀 I’m interested in Coding and learning new cutting edge Technology💻.
-- 🌱 I’m currently learning many Languages and technology parallelly.
+- 🌱 I'm living my dream and following my passion.
+- 😊 I’m also eager to meet new people, so feel free to connect!
 - 📫 How to reach me @mayueshzende on linkedIn
 
 <!---
