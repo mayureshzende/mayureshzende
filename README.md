@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mayuresh Zende</h1>
+<h1 align="center">Hi <img src="./img/wave.gif" height=30 width=30>, I'm Mayuresh Zende</h1>
 <h3 align="center">A passionate fullStack developer from ❤️ India</h3>
+
+<img align="center" src="https://raw.githubusercontent.com/mayureshzende/mayureshzende/master/banner1.png">
+
 <img align="right" alt="Coding" width="400" src="https://ultimez.com/blog/wp-content/uploads/2016/09/gif-animation.gif" />
 
 - 🔭 I’m currently working on **cutting Edge technologies**
