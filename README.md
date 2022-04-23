@@ -34,5 +34,6 @@
 </p>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mayureshzende&show_icons=true&locale=en&theme=slateorange" alt="mayureshzende" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayureshzende&theme=slateorange" alt="mayureshzende" />
 </p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayureshzende&theme=slateorange" alt="mayureshzende" /></p>
+<p></p>
