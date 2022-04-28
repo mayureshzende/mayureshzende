@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mayureshzende@gmail.com**
 
-- ⚡ Fun fact **can't spent a day without coding.😄**
+- ⚡ Fun fact **can't spent a day without coding😄 and exercising🏋🏼‍♂️.**
 
 <br />
 
