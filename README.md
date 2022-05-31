@@ -2,6 +2,7 @@
 <h3 align="center">A passionate fullStack developer from ❤️ India</h3>
 
 <img align="center" alt="mayuresh zende" src="https://raw.githubusercontent.com/mayureshzende/mayureshzende/master/banner1.png" />
+<img  align="right" alt="Coding" width="280" src="https://ultimez.com/blog/wp-content/uploads/2016/09/gif-animation.gif" />
 
 <br />
  
@@ -13,7 +14,6 @@
 
 - ⚡ Fun fact **can't spent a day without coding😉 and exercising🏋🏼‍♂️.**
 
-<img  align="right" alt="Coding" width="280" src="https://ultimez.com/blog/wp-content/uploads/2016/09/gif-animation.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
