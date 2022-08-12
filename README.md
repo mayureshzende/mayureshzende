@@ -9,7 +9,7 @@
  
  - 🔭 I’m currently working on **cutting Edge technologies**
 
-- 💬 Ask me about **react, JS, JAVA, C, SQL**
+- 💬 Ask me about **ReactJS, JS, JAVA,NodeJs, SQL, No-SQL**
 
 - 📫 How to reach me **mayureshzende@gmail.com**
 
