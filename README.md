@@ -55,16 +55,18 @@
 
 <!-- Humor -->
 
-# Humor <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="32" height="32">
+# _Humor_ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="32" height="32">
 
 <div align="center">
-
+<p  style="font-size : 30px"> <b> <i>Jokes</i> </b> </p>
 <p aligin="center">
 <img align="center"src="https://readme-jokes.vercel.app/api"alt="Jokes Card" width="400" /></p>
 
-<p aligin="center">
+<p style="font-size : 30px"><b> <i>Quotes <i> </b> </p>
+<p aligin="center"> 
 <img align="center"src="https://quotes-github-readme.vercel.app/api?theme=merko&border=true" /></p>
 
+<br>
 <p aligin="center">
 <img align="center"src="https://github-readme-daily-quotes-trinib.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker" /></p>
 
