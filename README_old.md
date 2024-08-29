@@ -1,4 +1,3 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
 <h1 align="center">Hi <img src="./img/wave.gif" height=30 width=30>, I'm Mayuresh Zende</h1>
 <h3 align="center">A passionate fullStack developer from ❤️ India</h3>
 
@@ -7,7 +6,8 @@
 
 <img  align="right" alt="Coding" width="250" src="https://ultimez.com/blog/wp-content/uploads/2016/09/gif-animation.gif" />
 
-- 🔭 I’m currently working on **cutting Edge technologies**
+ 
+ - 🔭 I’m currently working on **cutting Edge technologies**
 
 - 💬 Ask me about **Python, ReactJS, JS, JAVA, NodeJs, SQL, No-SQL**
 
@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **can't spent a day without coding😉 and exercising🏋🏼‍♂️.**
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/mayureshzende/name-plot -->
-<img alr="name-sanke-graph" src="https://raw.githubusercontent.com/mayureshzende/name-plot/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +36,4 @@
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayureshzende&theme=slateorange" alt="mayureshzende" />
 </p>
+
