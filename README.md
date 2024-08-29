@@ -1,7 +1,7 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
 <img src="https://raw.githubusercontent.com/mayureshzende/mayureshzende/main/only-svg/waves_right_side.svg">
 <h1 align="left">Hi <img src="./img/wave.gif" height=30 width=30>, I'm Mayuresh Zende</h1>
 <h3 align="left">A passionate fullStack developer from ❤️ India</h3>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
 
 <!-- <img align="center" alt="mayuresh zende" src="https://raw.githubusercontent.com/mayureshzende/mayureshzende/main/img/banner1.png" /> -->
 <br />
