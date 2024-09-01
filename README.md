@@ -91,7 +91,12 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/mayureshzende/name-plot -->
-<img align="center" alt="name-sanke-graph" src="https://raw.githubusercontent.com/mayureshzende/name-plot/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" width="100%" >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./only-svg/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./only-svg/github-contribution-grid-snake.svg" />
+  <img alt="github-graph-snake" src="./only-svg/github-contribution-grid-snake-dark.svg" />
+</picture>
+<!-- <img align="center" alt="name-snake-graph" src="./only-svg/github-contribution-grid-snake-dark.svg" width="100%" > -->
 
 <!-- Humor -->
 
