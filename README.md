@@ -6,7 +6,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <div align="center"> 
 <h1 >Hi <img src="./img/wave.gif" height=30 width=30> I'm Mayuresh</h1>
-<h3 >A fullStack developer from <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="25" height="25" /> India</h3>
+<h3 >A fullStack Software developer from <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="25" height="25" /> India</h3>
 <!-- <img align="center" alt="mayuresh zende" src="https://raw.githubusercontent.com/mayureshzende/mayureshzende/main/img/banner1.png" /> -->
 <!-- boy coding gif <img  align="right" alt="Coding" height="100" width="150" src="https://ultimez.com/blog/wp-content/uploads/2016/09/gif-animation.gif" /> -->
 </div>
@@ -103,16 +103,16 @@
 # _Humor_ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="32" height="32" />
 
 <div align="center">
-<p  style="font-size : 30px"> <b> <i>Jokes</i> </b> </p>
+<p  style="font-size:40px"> <b> <i>Jokes</i> </b> </p>
 <p aligin="center">
-<img align="center"src="https://readme-jokes.vercel.app/api?theme=gruvbox"alt="Jokes Card" width="400" /></p>
-<p style="font-size :30px"><b> <i>Quotes <i> </b> </p>
+<img align="center"src="https://readme-jokes.vercel.app/api?theme=gruvbox"alt="Jokes Card" width="70%" /></p>
+<p style="font-size:40px"><b> <i>Quotes <i> </b> </p>
 <!-- <p aligin="center"> 
 <img align="center"src="https://quotes-github-readme.vercel.app/api?theme=gruvbox&border=true&font=helvetica&author_color=FF9100&border_color=FF9100&border_width=3" width="300" /></p> 
 <br>
 -->
 <p aligin="center">
-<img src="https://readme-daily-quotes.vercel.app/api?theme=gruvbox&category=programming&border=true&border_radius=40&font=helvetica&author_color=FF9100&border_color=FF9100&border_width=3" alt="Prgramming Quotes">
+<img src="https://readme-daily-quotes.vercel.app/api?theme=gruvbox&category=programming&border=true&border_radius=40&font=helvetica&author_color=FF9100&border_color=FF9100&border_width=3" alt="Prgramming Quotes" width="70%">
 </p>
 </div>
 
