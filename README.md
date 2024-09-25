@@ -1,5 +1,6 @@
-![Header](https://raw.githubusercontent.com/mayureshzende/mayureshzende/main/only-svg/waves_right_side.svg)
-![Banner GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
+<!-- ![Header](https://raw.githubusercontent.com/mayureshzende/mayureshzende/main/only-svg/waves_right_side.svg)
+![Banner GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7) -->
+![Banner GitHub](https://raw.githubusercontent.com/mayureshzende/mayureshzende/refs/heads/main/img/banner1.png)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -130,6 +131,8 @@
 > <br>
 
 <div align="center">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMayuresh-Zende%2FMayuresh-Zende&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br>
    <a href="https://www.geeksforgeeks.org/user/mzende777"><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a>
    <a href="https://codesandbox.com/mayureshzende"><img src="https://img.shields.io/badge/Codepen-d5d5d5?style=for-the-badge&logo=codepen&logoColor=0A0209"/></a>
    <br>
