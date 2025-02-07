@@ -138,7 +138,11 @@
    <br>
   <a href="https://leetcode.com/mayureshzende/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
 <a href="https://www.codewars.com/users/mayuresh7"><img src="https://img.shields.io/badge/Codeforces-0A0209?style=for-the-badge&logo=Codeforces&logoColor=d5d5d5" alt="mayureshzende" /></a>
-<a href="https://www.hackerrank.com/mayuresh_1"><img src="https://img.shields.io/badge/-Hackerrank-0A0209?style=for-the-badge&logo=HackerRank&logoColor=d5d5d5"> </a>
+    <a href="https://www.hackerrank.com/mayuresh_1"
+      ><img
+        src="https://img.shields.io/badge/-Hackerrank-0A0209?style=for-the-badge&logo=HackerRank&logoColor=d5d5d5"
+      />
+    </a>
 <br>
 <a href="https://dev.to/mayureshzende"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
 <a href="https://www.linkedin.com/in/mayuresh-zende/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
